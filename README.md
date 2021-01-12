@@ -1,4 +1,4 @@
 # Olá, mundo!
  Primeiro projeto
 
-Essa linha eu metia vírgula, direto no site
+Essa linha eu meti a vírgula, direto no site
